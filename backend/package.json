@@ -1,0 +1,14 @@
+{
+  "name": "supervisor-project-management-backend",
+  "version": "1.0.0",
+  "description": "Express backend for the Flutter application using CSV storage.",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "fast-csv": "^5.0.5"
+  }
+}
